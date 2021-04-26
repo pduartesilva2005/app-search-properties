@@ -13,7 +13,7 @@
 ---
 <h2 align="center">
 
-  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=proffy-api&uri=https%3A%2F%2Fgithub.com%2Fpedroduarte2005%2Fapp-search-properties%2Fblob%2Fmaster%2FInsomnia-All_2021-04-26.json)
+  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=app-search-properties&uri=https%3A%2F%2Fgithub.com%2Fpedroduarte2005%2Fapp-search-properties%2Fblob%2Fmaster%2FInsomnia-All_2021-04-26.json)
 </h2>
 
 
