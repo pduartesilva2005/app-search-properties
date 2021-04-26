@@ -1,0 +1,36 @@
+.propertyItemContainer {
+  background: var(--color-white);
+  border: 1px solid #e6e8eb;
+  border-radius: .8rem;
+  margin-top: 2.4rem;
+  overflow: hidden;
+
+  table {
+    width: 100%;
+
+    th, td {
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid #e6e8eb;
+    }
+
+    th {
+      color: #afb2b1;
+      text-transform: uppercase;
+      font: 500 0.75rem Lexend, sans-serif;
+      text-align: left;
+    }
+
+    td {
+      font-size: 1rem;
+    }
+  }
+
+  div {
+    padding: 0.75rem 1rem;
+
+    p {
+      font-size: 1.1rem;
+      line-height: 2rem;
+    }
+  }
+}
