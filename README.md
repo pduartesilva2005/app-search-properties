@@ -33,6 +33,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
