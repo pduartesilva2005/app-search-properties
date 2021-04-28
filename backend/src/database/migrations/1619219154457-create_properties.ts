@@ -14,6 +14,10 @@ export class createProperties1619219154457 implements MigrationInterface {
           generationStrategy: 'increment',
         },
         {
+          name: "image",
+          type: 'varchar'
+        },
+        {
           name: 'type_property',
           type: 'varchar'
         },

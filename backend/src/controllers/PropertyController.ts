@@ -41,7 +41,7 @@ export default {
   },
 
   async create(request: Request, response: Response) {
-    const { 
+    const {
       type_property, 
       city, 
       state,
@@ -52,7 +52,10 @@ export default {
 
     const propertyRepository = getRepository(Property);
 
+    const image = request.file.filename;
+
     const data = {
+      image,
       type_property, 
       city, 
       state,

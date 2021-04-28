@@ -4,6 +4,7 @@ export default {
   render(property: Property) {
     return {
       id: property.id,
+      image: `http://localhost:3333/image/${property.image}`,
       type_property: property.type_property,
       city: property.city,
       state: property.state,

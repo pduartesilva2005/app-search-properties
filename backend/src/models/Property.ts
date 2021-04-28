@@ -6,6 +6,9 @@ export default class Property {
   id: number;
 
   @Column()
+  image: string;
+
+  @Column()
   type_property: string;
 
   @Column()
